@@ -1,0 +1,1 @@
+Traditional diagnosis of Parkinson’s Disease involves a clinician. Monitoring progression of the disease over time requires repeated clinic visits by the patient. Since PD patients exhibit characteristic vocal features, voice recordings are a useful and non-invasive tool for diagnosis. Diagnosing PD prior to an appointment with a clinician.
